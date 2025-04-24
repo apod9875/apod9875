@@ -25,18 +25,18 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **ME
 
 ## 🌟 Projects
 
-### 🔥 [Project 1 Name](link-to-project)
+### 🔥 [Project 1 Name]
 - Description of the project here. You can include features such as:
   - Full-stack application with MERN.
   - Authentication with JWT.
   - Dynamic, responsive UI with React & Tailwind CSS.
 
-### 🌍 [Project 2 Name](link-to-project)
+### 🌍 [Project 2 Name]
 - Description of the project here:
   - A C++ algorithm library for various data structures and problem-solving.
   - Focus on performance and efficiency.
   
-### 📚 [Project 3 Name](link-to-project)
+### 📚 [Project 3 Name]
 - Description of the project here:
   - A complete dashboard built with React and Express.
   - Integrated with MongoDB to display real-time data.
@@ -53,12 +53,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **ME
 
 ---
 
-## 🖥️ Let's Connect!
-
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website](your-website-url)
-- [Blog](your-blog-url)
 
 ---
 
